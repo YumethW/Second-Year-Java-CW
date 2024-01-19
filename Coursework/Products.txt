@@ -1,0 +1,3 @@
+Product ID id1, Product Name name1, Product Price 10.0, Product Available number 1, Electronic Brand brand1, Electronic Warranty Period 10
+Product ID id3, Product Name name3, Product Price 30.0, Product Available number 3, Electronic Brand brand3, Electronic Warranty Period 30
+Product ID id4, Product Name name4, Product Price 40.0, Product Available number 4, Clothing Size 40, Clothing Color color4
